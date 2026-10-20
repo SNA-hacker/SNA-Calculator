@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="headerColor">#0D2855</color>
+    <color name="calculatorColor">#F4F7FF</color>
+    <color name="displayColor">#D8E5FF</color>
+    <color name="numberButtonColor">#FFFFFF</color>
+    <color name="functionButtonColor">#CAD7F2</color>
+    <color name="operationButtonColor">#3978E5</color>
+    <color name="equalsButtonColor">#36AD72</color>
+    <color name="deleteButtonColor">#FCE7E8</color>
+    <color name="headingColor">#102C59</color>
+    <color name="headerTextColor">#FFFFFF</color>
+    <color name="numberTextColor">#102C59</color>
+    <color name="functionTextColor">#3474D0</color>
+    <color name="operationTextColor">#FFFFFF</color>
+    <color name="equalsTextColor">#FFFFFF</color>
+    <color name="deleteTextColor">#B33B40</color>
+    <color name="expressionTextColor">#5A7199</color>
+    <color name="buttonRippleColor">#A9C7FF</color>
+
+
+
+
+</resources>
